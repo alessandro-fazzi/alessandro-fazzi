@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-📫 <a rel="me" href="https://ruby.social/@alessandrofazzi">Mastodon</a>
-
 <!--
 **pioneerskies/pioneerskies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
