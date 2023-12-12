@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+HI,
+
+I'm Alessandro, I live in Italy in a small village bordering [Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato](https://www.paesaggivitivinicoli.it/en) where I live with my family: my wife Silvia and my daughter Olivia.
+
+I escaped from a big city showing some mild symptoms of misanthropy, but I am generally harmless.
+
+I'm an object oriented software design and programming consultant. Mostly writing in Ruby, but expereinced on a range of the so-called _stack_.
+
+The only social network I frequent is https://ruby.social, where you could possibly reach me.
+
 <!--
 **pioneerskies/pioneerskies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
